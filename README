@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3718
+
+This script is mainly a syntax file (found in syntax/melt.vim) completed with a few coding styles rules (ftplugin/melt.vim).
+You can found more about MELT here: http://gcc-melt.org/
+One of the good point is that it handles C code written in a code_chunk.
+
+Release under GPLV3 or higher
+
+
+Author is Pierre Vittet (http://pvittet.com).
+
